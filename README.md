@@ -1,6 +1,6 @@
 # DP_similarity-checker
 
-**Número da Lista**: 5 
+**Número da Lista**: 5 <br>
 **Conteúdo da Disciplina**: FGA0124 - PROJETO DE ALGORITMOS - T01  
 
 
