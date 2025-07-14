@@ -33,10 +33,29 @@ O programa oferece duas funcionalidades principais:
 - **Comparador de Receitas**: Permite ao usuário escolher duas receitas existentes e compará-las usando tanto a métrica de Distância de Levenshtein quanto o Score de Alinhamento, oferecendo duas visões complementares da similaridade.
 
 ## Screenshots
-1.  Screenshot do Menu Principal.
-2.  Screenshot do "Modo Assistente Culinário" mostrando a lista de passos e a seleção do usuário.
-3.  Screenshot do resultado da análise do assistente.
-4.  Screenshot do resultado de uma comparação por Distância e por Score.
+
+### Menu Principal
+![Menu Principal](./assets/menu_principal.png)
+
+### Modo Assistente Culinário  
+Mostra a lista de passos disponíveis e a seleção do usuário.
+
+![Modo Assistente Culinário](./assets/modo_assitente_culinario.png)
+
+### Resultado da Análise (Assistente)  
+Exibe a receita mais parecida com base nos passos selecionados.
+
+![Resultado Assistente](./assets/resultado_assistente.png)
+
+### Comparação entre Receitas  
+Comparações usando dois métodos diferentes:
+
+#### Por Distância de Levenshtein  
+![Comparação por Distância](./assets/comparacao_distancia.png)
+
+#### Por Score de Alinhamento  
+![Comparação por Score](./assets/comparacao_score.png)
+
 
 ## Instalação 
 **Linguagem**: Python
