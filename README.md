@@ -35,26 +35,26 @@ O programa oferece duas funcionalidades principais:
 ## Screenshots
 
 ### Menu Principal
-![Menu Principal](./assets/menu_principal.png)
+![Menu Principal](./Documentos/screenshots/menu_principal.png)
 
 ### Modo Assistente Culinário  
 Mostra a lista de passos disponíveis e a seleção do usuário.
 
-![Modo Assistente Culinário](./assets/modo_assitente_culinario.png)
+![Modo Assistente Culinário](./Documentos/screenshots/resultado_assistente.png)
 
 ### Resultado da Análise (Assistente)  
 Exibe a receita mais parecida com base nos passos selecionados.
 
-![Resultado Assistente](./assets/resultado_assistente.png)
+![Resultado Assistente](./Documentos/screenshots/resultado_assistente.png)
 
 ### Comparação entre Receitas  
 Comparações usando dois métodos diferentes:
 
 #### Por Distância de Levenshtein  
-![Comparação por Distância](./assets/comparacao_distancia.png)
+![Comparação por Distância](./Documentos/screenshots/comparacao_distancia.png)
 
 #### Por Score de Alinhamento  
-![Comparação por Score](./assets/comparacao_score.png)
+![Comparação por Score](./Documentos/screenshots/comparacao_score.png)
 
 
 ## Instalação 
