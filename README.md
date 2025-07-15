@@ -117,19 +117,19 @@ python3 main.py
 
 - Visualizar pela interface
 ```bash
-python gui.py
+python interface.py
 ```
 ou
 
 ```bash
-python3 gui.py
+python3 interface.py
 ```
 
 ---
 ## 📽️ Apresentação
 
 <div align="center">
-<a href="https://youtu.be/tx-iWso1guE?si=0JcJjfdS03mmx4G2"><img src="Documentos/screenshots/image4.png" width="50%"></a>
+<a href="https://youtu.be/xwATkRiYJ-A"><img src="Documentos/screenshots/video.png" width="50%"></a>
 </div>
 
 
